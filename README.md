@@ -28,7 +28,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathiyaSenpai&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
 </p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="GitHub Stats" />
-</p>
