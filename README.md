@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_TELEGRAM_LINK"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="YOUR_XDA_LINK"><img src="https://img.shields.io/badge/XDA-F5972D?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
-  <a href="YOUR_INSTA_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="t.me/Sathiyasenpai"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com/channels/@Sathiya.Senpai"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://xdaforums.com/m/sathyasenpai.13368319/"><img src="https://img.shields.io/badge/XDA-F5972D?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_invincible_mitsuya__007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -26,11 +26,11 @@
 
 ### Analysis
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathiyaSenpai&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="GitHub Stats" />
 </p>
