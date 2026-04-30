@@ -1,8 +1,7 @@
-<h1 align="center">Sathiya Narayanan</h1>
-
-<p align="center">
-  <i>"A 19 Year old Student"</i>
+<p align="center"><a href="https://github.com/SathiyaSenpai"><img width="80%" alt="Hello, I'm Sathiya. I do open source!" src="./assets/header.png" /></a>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://t.me/Sathiyasenpai"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -23,8 +22,3 @@
 *   **Project:** Building **Deskbot** (AI-integrated hardware)
 
 ---
-
-### Analysis
-<p align="left" color="white">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathiyaSenpai&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
-</p>
