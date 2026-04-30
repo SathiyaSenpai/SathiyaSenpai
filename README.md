@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Sathiya Narayanan</h1>
 
-<!--
-**SathiyaSenpai/SathiyaSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>"A 19 Year old Student"</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_TELEGRAM_LINK"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="YOUR_XDA_LINK"><img src="https://img.shields.io/badge/XDA-F5972D?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
+  <a href="YOUR_INSTA_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 System Environment
+*   **Primary Device:** OnePlus Nord 4
+*   **Operating Systems:** OxygenOS 16 / crDroid 12.9 (Android 16)
+*   **Modification:** KernelSU / System-level patching
+*   **Workstation:** Linux Mint & Windows Pro Dual-boot
+
+## ⚡ Current Pursuit
+*   **Project:** Building **Deskbot** (AI-integrated hardware)
+
+---
+
+### Analysis
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444" alt="GitHub Stats" />
+</p>
