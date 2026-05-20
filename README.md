@@ -17,9 +17,9 @@
 
 ## 🛠 System Environment
 *   **Primary Device:** OnePlus Nord 4
-*   **Operating Systems:** OxygenOS 16 / crDroid 12.9 (Android 16)
+*   **Operating Systems:** crDroid 12.10 (Android 16)
 *   **Modification:** KernelSU / System-level patching
-*   **Workstation:** Linux Mint & Windows Pro Dual-boot
+*   **Workstation:** Linux Mint
 
 ## ⚡ Current Pursuit
 *   **Project:** Building **Deskbot** (AI-integrated hardware)
