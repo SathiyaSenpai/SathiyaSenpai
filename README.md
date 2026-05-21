@@ -25,8 +25,3 @@
 *   **Project:** Building **Deskbot** (AI-integrated hardware)
 
 ---
-
-### Analysis
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathiyaSenpai&layout=compact&theme=dracula&hide_border=true&title_color=000&text_color=444" alt="Top Langs" />
-</p>
