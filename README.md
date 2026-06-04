@@ -13,14 +13,6 @@
   <a href="https://www.instagram.com/_invincible_mitsuya__007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-## 🛠 System Environment
-*   **Primary Device:** OnePlus Nord 4
-*   **Operating Systems:** crDroid 12.10 (Android 16)
-*   **Modification:** KernelSU / System-level patching
-*   **Workstation:** Linux Mint
-
 ## ⚡ Current Pursuit
 *   **Project:** Building **Deskbot** (AI-integrated hardware)
 
