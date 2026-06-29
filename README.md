@@ -15,5 +15,5 @@
 
 ## ⚡ Current Pursuit
 *   **Project:** Building **Deskbot** (AI-integrated hardware)
-
+*   **Hobby:** Building **Custom ROM** (for codename: avalon)
 ---
