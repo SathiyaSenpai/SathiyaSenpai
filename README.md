@@ -90,9 +90,9 @@ Downtime: Betta fish care 🐟
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" height="150" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="stats-light.svg" />
+    <img src="stats-light.svg" height="150" alt="stats" />
   </picture>
 </p>
 <!--
