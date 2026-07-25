@@ -1,0 +1,26 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Download Stats Images
+        run: |
+          curl "https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" -o stats-dark.svg
+          curl "https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" -o stats-light.svg
+
+      - name: Commit and Push Files
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add stats-dark.svg stats-light.svg
+          git commit -m "Update stats images" || exit 0
+          git push
