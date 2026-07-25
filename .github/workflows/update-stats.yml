@@ -15,10 +15,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
 
-      - name: Download Stats Images
-        run: |
-          curl -f --retry 5 --retry-all-errors --retry-delay 5 "https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" -o stats-dark.svg
-          curl -f --retry 5 --retry-all-errors --retry-delay 5 "https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" -o stats-light.svg
+      - name: Generate Dark Stats Image
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
+          path: stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Light Stats Image
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000"
+          path: stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Files
         run: |
