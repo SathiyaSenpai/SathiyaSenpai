@@ -88,13 +88,8 @@ Downtime: Betta fish care 🐟
 
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000&wake=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000&wake=2" />
-    <img src="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000&wake=2" height="150" alt="stats" />
-  </picture>
-</p>
+![Stats Dark](https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000&refresh=3#gh-dark-mode-only)
+![Stats Light](https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000&refresh=3#gh-light-mode-only)
   
 <!--
   <picture>
