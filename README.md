@@ -1,5 +1,5 @@
-<h1 align="center">sathiya@avalon:~$ whoami</h1>
-<p align="center"><i>first-year B.Sc AI & ML student · building a robot that helps old people · breaking phone bootloaders on the side</i></p>
+<h1 align="center">@sathiya:~$ whoami</h1>
+<p align="center"><i>first-year B.Sc AI & ML student · building a robot that helps old people · building android rom on the side</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A8A8A&center=true&vCenter=true&width=520&lines=compiling+device+trees+at+2am;training+myself+in+ML+one+unit+at+a+time;still+waiting+for+repo+sync+to+finish" alt="typing" />
@@ -27,13 +27,13 @@ I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean
 | **Languages** | `Python` `C++` → learning `Java` next |
 | **Robotics / AI** | ESP32-S3, Jetson Orin Nano, offline ASR/TTS pipelines |
 | **Android internals** | device trees, kernel configs, vendor blobs, SELinux policy, Make build systems |
-| **Daily driver** | Arch Linux |
+| **Daily driver** | Arch Linux + Android |
 
 ---
 
 ### things that don't compile on the first try
 
-Custom ROM work means most days are spent reading build logs instead of writing new code — chasing down a duplicate SELinux declaration, a clang version mismatch, or a vibrator module that refuses to cooperate. It's slow and still the most fun part of my week.
+Custom ROM work means most days are spent reading build logs instead of writing new code. Chasing down a duplicate SELinux declaration, a clang version mismatch, or a vibrator module that refuses to cooperate. It's slow but still the most fun part of my week.
 
 ---
 
@@ -88,7 +88,13 @@ Downtime: Betta fish care 🐟
 
 </p>
 
-</p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" /> <img src="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" height="150" alt="stats" /> </picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000&v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000&v=1" />
+    <img src="https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000&v=1" height="150" alt="stats" />
+  </picture>
+</p>
   
 <!--
   <picture>
