@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Download Stats Images
         run: |
-          curl "https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" -o stats-dark.svg
-          curl "https://github-readme-stats-sathya7.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" -o stats-light.svg
+          curl -f --retry 5 --retry-all-errors --retry-delay 5 "https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" -o stats-dark.svg
+          curl -f --retry 5 --retry-all-errors --retry-delay 5 "https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" -o stats-light.svg
 
       - name: Commit and Push Files
         run: |
