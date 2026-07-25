@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: "username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
           path: stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate Light Stats Image
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -29,7 +29,7 @@ jobs:
           card: stats
           options: "username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000"
           path: stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit and Push Files
         run: |
