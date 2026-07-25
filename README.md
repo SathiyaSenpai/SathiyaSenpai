@@ -10,13 +10,13 @@
 ### this week's build log
 
 ```
-[ NISHYA ]     eldercare companion robot — finalist + funded @ Robothon 2k26
-[ VoltageOS ]  LineageOS 16.2-based custom ROM for OnePlus Nord 4 (avalon)
+[ DESKBOT   ]  Eldercare companion robot. Finalist @ Robothon 2k26
+[ VoltageOS ]  AOSP based custom ROM for OnePlus Nord 4 (avalon)
 [ Lunaris   ]  AOSP build for avalon — still maintaining alongside VoltageOS
 [ AviumUI   ]  custom UI layer, same device, different personality
 ```
 
-I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean droplet running `brunch avalon` at full CPU. Long-term, I'm aiming at embodied AI and robotics — NISHYA is where that actually gets tested against reality instead of staying theoretical.
+I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean droplet running `brunch avalon` at full CPU. Long-term, I'm aiming at embodied AI and robotics. DESKBOT is where that actually gets tested against reality instead of staying theoretical.
 
 ---
 
@@ -24,16 +24,16 @@ I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean
 
 | | |
 |---|---|
-| **Languages** | `Python` `Java` `C++` → learning `C` next |
+| **Languages** | `Python` `C++` → learning `Java` next |
 | **Robotics / AI** | ESP32-S3, Jetson Orin Nano, offline ASR/TTS pipelines |
-| **Android internals** | device trees, kernel configs, vendor blobs, SELinux policy, Soong/Make build systems |
-| **Daily driver** | CachyOS + Hyprland |
+| **Android internals** | device trees, kernel configs, vendor blobs, SELinux policy, Make build systems |
+| **Daily driver** | Arch Linux |
 
 ---
 
 ### things that don't compile on the first try
 
-Custom ROM work means most days are spent reading build logs instead of writing new code — chasing down a duplicate SELinux declaration, a clang version mismatch, or a vibrator module that refuses to cooperate. It's slow, occasionally infuriating, and still the most fun part of my week.
+Custom ROM work means most days are spent reading build logs instead of writing new code — chasing down a duplicate SELinux declaration, a clang version mismatch, or a vibrator module that refuses to cooperate. It's slow and still the most fun part of my week.
 
 ---
 
@@ -41,22 +41,22 @@ Custom ROM work means most days are spent reading build logs instead of writing 
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/XDA%20Thread-VoltageOS-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - VoltageOS"/></a>
-<a href="https://github.com/SathiyaSenpai/VoltageOS"><img src="https://img.shields.io/badge/GitHub-VoltageOS-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - VoltageOS"/></a>
+<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/voltage-16.2"><img src="https://img.shields.io/badge/GitHub-VoltageOS-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - VoltageOS"/></a>
 </p>
 <p>
-<a href="#"><img src="https://img.shields.io/badge/XDA%20Thread-Lunaris%20AOSP-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - Lunaris"/></a>
-<a href="https://github.com/SathiyaSenpai/Lunaris"><img src="https://img.shields.io/badge/GitHub-Lunaris-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Lunaris"/></a>
+<a href="https://xdaforums.com/t/rom-unofficial-avalon-vanilla-lunaris-aosp-for-oneplus-nord-4.4792967/"><img src="https://img.shields.io/badge/XDA%20Thread-Lunaris%20AOSP-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - Lunaris"/></a>
+<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/luna-16.2"><img src="https://img.shields.io/badge/GitHub-Lunaris-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Lunaris"/></a>
 </p>
 <p>
-<a href="#"><img src="https://img.shields.io/badge/XDA%20Thread-AviumUI-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - AviumUI"/></a>
-<a href="https://github.com/SathiyaSenpai/AviumUI"><img src="https://img.shields.io/badge/GitHub-AviumUI-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - AviumUI"/></a>
+<a href="https://xdaforums.com/t/rom-unofficial-avalon-vanilla-avium-ui-for-oneplus-nord-4.4790623/"><img src="https://img.shields.io/badge/XDA%20Thread-AviumUI-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - AviumUI"/></a>
+<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/avium-16.2"><img src="https://img.shields.io/badge/GitHub-AviumUI-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - AviumUI"/></a>
 </p>
 
 ---
 
 ### off the clock
 
-anime · BGMI, Free Fire, Genshin Impact, Expedition 33 · tracking SIPs on Groww instead of checking them daily like I should · trying to keep my setup as minimal as my patience for cluttered UIs
+anime · RDR2
 
 ---
 
@@ -64,7 +64,7 @@ anime · BGMI, Free Fire, Genshin Impact, Expedition 33 · tracking SIPs on Grow
 
 <p>
 <a href="https://sathiya.codes"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:25bai042@hicas.ac.in"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:mail.sathiyanarayanan@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/SathiyaSenpai"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -73,32 +73,29 @@ anime · BGMI, Free Fire, Genshin Impact, Expedition 33 · tracking SIPs on Grow
 <p align="center">
 
 ```
-sathiya@avalon
+@sathiya ☕
 ──────────────
-OS: B.Sc AI & ML, Year 1 (Tiruppur, TN)
-Kernel: 6.1 (avalon / SM8650)
-Uptime: since Robothon 2k26 finals
-Shell: Tanglish
-DE: CachyOS + Hyprland
-Building: VoltageOS (LineageOS 16.2, brunch avalon)
-Training: NISHYA's offline voice stack
-Packages: Lunaris, AviumUI, VoltageOS (3 explicit)
-Memory: 90% allocated to device tree debugging
-CPU Temp: rising, ccache still warming up
+Uptime: Early bird 🌅
+Study: B.Sc AI & ML (Exams compiling...) 📚
+Location: Tamil Nadu, IN 📍
+OS: Arch Linux 🐧 | Mobile: avalon (Rooted, Custom ROM) 📱
+Stack: Python, C++ 💻
+Building: Deskbot 🤖
+Interests: Custom ROMs, Anime, hardware benchmarking, tweaking, Learning new Tech ⚙️
+Memory: 90% allocated to exams & local manifests 🧠
+Downtime: Betta fish care 🐟 
 ```
 
 </p>
 
-<!--
-Stats cards go here once the self-hosted Vercel instances are working —
-swap back in when ready:
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-sandy-86.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-sandy-86.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" />
     <img src="https://github-readme-stats.vercel.app/api?username=SathiyaSenpai&show_icons=true&hide_title=true&hide_border=true&text_color=000000&icon_color=000000&bg_color=00000000" height="150" alt="stats" />
   </picture>
+  
+<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SathiyaSenpai&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SathiyaSenpai&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
@@ -107,4 +104,4 @@ swap back in when ready:
 </p>
 -->
 
-<p align="center"><sub>build #whatever · last flashed 25/07/2026 · status: mostly stable</sub></p>
+<p align="center"><sub>build #whatever · status: mostly stable</sub></p>
