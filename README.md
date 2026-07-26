@@ -20,6 +20,10 @@ I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SathiyaSenpai)](https://git.io/streak-stats)
+
+---
+
 ### stack
 
 | | |
@@ -87,21 +91,5 @@ Downtime: Betta fish care 🐟
 ```
 
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="stats-light.svg" />
-    <img src="stats-light.svg" height="150" alt="stats" />
-  </picture>
-</p>
-<!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SathiyaSenpai&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SathiyaSenpai&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
-    <img src="https://streak-stats.demolab.com?user=SathiyaSenpai&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" height="150" alt="streak" />
-  </picture>
-</p>
--->
 
 <p align="center"><sub>build #whatever · status: mostly stable</sub></p>
