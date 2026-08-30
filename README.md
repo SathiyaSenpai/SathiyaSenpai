@@ -1,95 +1,74 @@
 <h1 align="center">@sathiya:~$ whoami</h1>
-<p align="center"><i>first-year B.Sc AI & ML student · building a robot that helps old people · building android rom on the side</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A8A8A&center=true&vCenter=true&width=520&lines=compiling+device+trees+at+2am;training+myself+in+ML+one+unit+at+a+time;still+waiting+for+repo+sync+to+finish" alt="typing" />
+  <i>B.Sc AI & ML student · robotics · Android OS development</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A8A8A&center=true&vCenter=true&width=520&lines=building+robots;learning+AI%2FML;exploring+Android+OS+development;waiting+for+repo+sync..." alt="typing" />
 </p>
 
 ---
 
-### this week's build log
+### currently building
 
-```
-[ DESKBOT   ]  Eldercare companion robot. Finalist @ Robothon 2k26
-[ VoltageOS ]  AOSP based custom ROM for OnePlus Nord 4 (avalon)
-[ Lunaris   ]  AOSP build for avalon — still maintaining alongside VoltageOS
-[ AviumUI   ]  custom UI layer, same device, different personality
-```
+* 🤖 **DESKBOT** — eldercare companion robot · Robothon 2k26 finalist
+* 📱 **Android ROM Development** — AOSP, device trees, kernels, vendor integration, and system customization
 
-I'm somewhere between a classroom learning AI/ML fundamentals and a DigitalOcean droplet running `brunch avalon` at full CPU. Long-term, I'm aiming at embodied AI and robotics. DESKBOT is where that actually gets tested against reality instead of staying theoretical.
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SathiyaSenpai)](https://git.io/streak-stats)
+My main interests are **robotics, embodied AI, and Android OS development**.
 
 ---
 
 ### stack
 
-| | |
-|---|---|
-| **Languages** | `Python` `C++` → learning `Java` next |
-| **Robotics / AI** | ESP32-S3, Jetson Orin Nano, offline ASR/TTS pipelines |
-| **Android internals** | device trees, kernel configs, vendor blobs, SELinux policy, Make build systems |
-| **Daily driver** | Arch Linux + Android |
+**Languages**
+`Python` `C++` · learning `Java`
+
+**AI / Robotics**
+`ESP32-S3` `Jetson Orin Nano` `ASR` `TTS` `ML`
+
+**Android**
+`AOSP` `Device Trees` `Kernels`  `Vendor Blobs`
+
+**Daily driver**
+`Arch Linux` + `Android`
 
 ---
 
-### things that don't compile on the first try
+### what I do
 
-Custom ROM work means most days are spent reading build logs instead of writing new code. Chasing down a duplicate SELinux declaration, a clang version mismatch, or a vibrator module that refuses to cooperate. It's slow but still the most fun part of my week.
+Mostly:
 
----
+```text
+write code
+    ↓
+build
+    ↓
+watch compiler complain
+    ↓
+read logs
+    ↓
+fix one thing
+    ↓
+break two more
+    ↓
+repeat
+```
 
-### where the work lives
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/XDA%20Thread-VoltageOS-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - VoltageOS"/></a>
-<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/voltage-16.2"><img src="https://img.shields.io/badge/GitHub-VoltageOS-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - VoltageOS"/></a>
-</p>
-<p>
-<a href="https://xdaforums.com/t/rom-unofficial-avalon-vanilla-lunaris-aosp-for-oneplus-nord-4.4792967/"><img src="https://img.shields.io/badge/XDA%20Thread-Lunaris%20AOSP-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - Lunaris"/></a>
-<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/luna-16.2"><img src="https://img.shields.io/badge/GitHub-Lunaris-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Lunaris"/></a>
-</p>
-<p>
-<a href="https://xdaforums.com/t/rom-unofficial-avalon-vanilla-avium-ui-for-oneplus-nord-4.4790623/"><img src="https://img.shields.io/badge/XDA%20Thread-AviumUI-F59714?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA - AviumUI"/></a>
-<a href="https://github.com/SathiyaSenpai/android_device_oneplus_avalon/tree/avium-16.2"><img src="https://img.shields.io/badge/GitHub-AviumUI-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - AviumUI"/></a>
-</p>
-
----
-
-### off the clock
-
-anime · RDR2
+I enjoy working close to the system, whether that's **training models, building robots, or figuring out why Android refuses to compile**.
 
 ---
 
-### reach me
+### outside the terminal
 
-<p>
-<a href="https://sathiya.codes"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:mail.sathiyanarayanan@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/SathiyaSenpai"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+Anime · RDR2 · hardware tinkering · learning random tech
 
 ---
+
+### contact
+
+[Portfolio](https://sathiya.codes) · [Email](mailto:mail.sathiyanarayanan@gmail.com) · [GitHub](https://github.com/SathiyaSenpai)
 
 <p align="center">
-
-```
-@sathiya ☕
-──────────────
-Uptime: Early bird 🌅
-Study: B.Sc AI & ML (Exams compiling...) 📚
-Location: Tamil Nadu, IN 📍
-OS: Arch Linux 🐧 | Mobile: avalon (Rooted, Custom ROM) 📱
-Stack: Python, C++ 💻
-Building: Deskbot 🤖
-Interests: Custom ROMs, Anime, hardware benchmarking, tweaking, Learning new Tech ⚙️
-Memory: 90% allocated to exams & local manifests 🧠
-Downtime: Betta fish care 🐟 
-```
-
+  <sub>@sathiya ☕ · status: mostly stable</sub>
 </p>
-
-<p align="center"><sub>build #whatever · status: mostly stable</sub></p>
