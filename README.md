@@ -27,9 +27,6 @@ My main interests are **robotics, embodied AI, and Android OS development**.
 **AI / Robotics**
 `ESP32-S3` `Jetson Orin Nano` `ASR` `TTS` `ML`
 
-**Android**
-`AOSP` `Device Trees` `Kernels`  `Vendor Blobs`
-
 **Daily driver**
 `Arch Linux` + `Android`
 
